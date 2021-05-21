@@ -1,0 +1,18 @@
+h1{
+    color:blue;
+}
+
+h2{
+    color:aqua;
+}
+
+h3{
+    color:lime;
+}
+
+.image1{
+    position:absolute;
+    top: 300;
+    left: 0;
+}
+
